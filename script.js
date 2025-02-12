@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const homeButton = document.getElementById("go-home");
     if (homeButton) {
         homeButton.addEventListener("click", function() {
-            window.location.href = "index12.html";
+            window.location.href = "index.html";
         });
     }
 });
